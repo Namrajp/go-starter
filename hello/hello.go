@@ -5,7 +5,7 @@ import (
     "log"
     "example.com/greetings"
 )
-
+// main function is starting point of program execution
 func main() {
     // Get a greeting message and print it.
     log.SetPrefix("greetings:")

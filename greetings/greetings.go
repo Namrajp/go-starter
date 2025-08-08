@@ -1,5 +1,5 @@
 package greetings
-
+// This is package name of imported file
 import (
 	"errors"
 	"fmt"
